@@ -29,3 +29,5 @@ it and any reflections on the development journey.
 Link to the completed Julija_Tribute_page is:
 
 https://codepen.io/julija777/pen/mdMWpbW
+
+P.S. I decided not to overthink so I created a tribute page about myself because it’s quicker to get information and no need to ask for rights to publicise someone's photos. I was excited when managed to link my photos directly from social media to the tribute page. No need for storage on a local PC and no extra downloads. Wow!
