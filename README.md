@@ -1,4 +1,5 @@
-# w0d0_precourse-challenge-julija777
+# Tribute_Page_Julija777
+
 w0d0_precourse-challenge-julija777 created by GitHub Classroom
 
 The tasks from SoC are:
