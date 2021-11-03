@@ -1,8 +1,13 @@
 # Tribute_Page_Julija777
 
-w0d0_precourse-challenge-julija777 created by GitHub Classroom
 
-The tasks from SoC are:
+I've decided not to overthink on the Tribute page topic so I've created a tribute page about myself. 
+Because it’s quicker to get information and no need to ask for rights to publicise someone's photos. 
+I was excited when I managed to link my photos directly from social media to the tribute page. 
+I fould it's a cool way of creating visuals as no need for storage on a local PC and no extra downloads!
+
+
+The task from SoC:
 
 - [ ] We’d like you to complete the first project in FreeCodeCamp’s Responsive Web Design certification, 
 the tribute page. You can make your tribute page about anything you want. Let your personality shine through!
@@ -27,10 +32,11 @@ it and any reflections on the development journey.
 * Add, commit, and push your changes to that repository using your new Git skills on the command line in the VS Code terminal.
 * Host the website using GitHub pages.
 
-Link to the original code when I've started to code is:
+
+P.S. Link to the original code when I've started to code is:
 
 https://codepen.io/julija777/pen/mdMWpbW
 
 Then it was modified by me in VSCode and then a bit straight in the GitHub.
 
-P.S. I decided not to overthink so I created a tribute page about myself because it’s quicker to get information and no need to ask for rights to publicise someone's photos. I was excited when managed to link my photos directly from social media to the tribute page. No need for storage on a local PC and no extra downloads. Wow!
+
