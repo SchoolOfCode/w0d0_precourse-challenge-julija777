@@ -37,6 +37,6 @@ P.S. Link to the original code when I've started to code is:
 
 https://codepen.io/julija777/pen/mdMWpbW
 
-Then it was modified by me in VSCode and then a bit straight in the GitHub.
+Then it was modified by me in VSCode and then a bit inside the GitHub.
 
 
